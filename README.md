@@ -1,2 +1,3 @@
 # projeto-inicial-fetch-github-api
-Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API
+
+Nesse projeto, aprendi como buscar usuários do github e criar um painel usando html dentro do js
